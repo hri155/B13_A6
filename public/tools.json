@@ -8,7 +8,7 @@
     "tag": "popular",
     "tagType": "Popular",
     "features": ["100+ AI templates", "Grammar correction", "Export to PDF"],
-    "icon": "/products/writing_2327400 1.png"
+    "icon": "/product/writing.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "tag": "best seller",
     "tagType": "Best Seller",
     "features": ["200+ templates", "Commercial license", "Easy customization"],
-    "icon": "/products/design-tool.png"
+    "icon": "/product/design-tool.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "tag": "new",
     "tagType": "New",
     "features": ["1M+ assets", "HD quality", "No attribution"],
-    "icon": "Image"
+    "icon": "/product/cam.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "tag": "popular",
     "tagType": "Popular",
     "features": ["50+ automations", "API access", "Custom workflows"],
-    "icon": "Zap"
+    "icon": "/product/operation.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "tag": "new",
     "tagType": "New",
     "features": ["ATS optimized", "PDF export", "Modern templates"],
-    "icon": "FileText"
+    "icon": "/product/portfolio.png"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "tag": "best seller",
     "tagType": "Best Seller",
     "features": ["Post scheduler", "Analytics dashboard", "Content planner"],
-    "icon": "MonitorSmartphone"
+    "icon": "/product/social-media.png"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "tag": "popular",
     "tagType": "Popular",
     "features": ["Keyword research", "Site audit", "Ranking tracker"],
-    "icon": "Search"
+    "icon": "/product/magnifying-glass-solid.png"
   },
   {
     "id": 8,
@@ -85,6 +85,6 @@
     "tag": "best seller",
     "tagType": "Best Seller",
     "features": ["1TB storage", "Auto backup", "Secure encryption"],
-    "icon": "ShieldCheck"
+    "icon": "/product/shield-solid.png"
   }
 ]
