@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate blogs, emails, and social media content using powerful AI tools.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["100+ AI templates", "Grammar correction", "Export to PDF"],
+    "icon": "/products/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Access premium templates for social media, presentations, and marketing.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "Best Seller",
+    "features": ["200+ templates", "Commercial license", "Easy customization"],
+    "icon": "/products/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "High-quality photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "New",
+    "features": ["1M+ assets", "HD quality", "No attribution"],
+    "icon": "Image"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate workflows and save time using powerful integrations.",
+    "price": 79,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "Zap"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters instantly.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "New",
+    "features": ["ATS optimized", "PDF export", "Modern templates"],
+    "icon": "FileText"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Create and schedule engaging content for all platforms.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "Best Seller",
+    "features": ["Post scheduler", "Analytics dashboard", "Content planner"],
+    "icon": "MonitorSmartphone"
+  },
+  {
+    "id": 7,
+    "name": "SEO Optimization Tool",
+    "description": "Boost your website ranking with advanced SEO insights.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["Keyword research", "Site audit", "Ranking tracker"],
+    "icon": "Search"
+  },
+  {
+    "id": 8,
+    "name": "Cloud Storage Secure",
+    "description": "Store and manage your files safely in the cloud.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "Best Seller",
+    "features": ["1TB storage", "Auto backup", "Secure encryption"],
+    "icon": "ShieldCheck"
+  }
+]
