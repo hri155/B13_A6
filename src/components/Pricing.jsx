@@ -1,5 +1,4 @@
 
-
 const Pricing=()=>{
 
   return(

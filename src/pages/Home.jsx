@@ -5,6 +5,7 @@ import Products from "../components/Products";
 import { useState } from "react";
 import StartingStep from "../components/StartingStep";
 import Pricing from "../components/Pricing";
+import Explore from "../components/Explore";
 
 const Home = () => {
     const[carts,setCarts]=useState([])
@@ -18,6 +19,7 @@ const Home = () => {
                 <StartingStep/>
                 <Pricing/>
             </div>
+            <Explore/>
         </div>
     );
 };
