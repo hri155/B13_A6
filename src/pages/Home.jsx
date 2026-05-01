@@ -6,6 +6,7 @@ import { useState } from "react";
 import StartingStep from "../components/StartingStep";
 import Pricing from "../components/Pricing";
 import Explore from "../components/Explore";
+import Footer from "../components/Footer";
 
 const Home = () => {
     const[carts,setCarts]=useState([])
@@ -20,6 +21,7 @@ const Home = () => {
                 <Pricing/>
             </div>
             <Explore/>
+            <Footer/>
         </div>
     );
 };
