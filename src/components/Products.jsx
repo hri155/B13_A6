@@ -1,6 +1,6 @@
 import ToolsCard from "./ToolsCard";
 
-const Products = () => {
+const Products = ({carts,setCarts}) => {
     return(
        <div className="mt-20">
           <div className="text-center space-y-5">
@@ -16,7 +16,7 @@ const Products = () => {
                 </div>
            </div>
            <div>
-              <ToolsCard/>
+              <ToolsCard carts={carts} setCarts={setCarts}/>
            </div>
 
         </div>
