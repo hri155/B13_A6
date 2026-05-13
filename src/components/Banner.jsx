@@ -1,6 +1,6 @@
 import banner from '../assets/banner.png';
 import icon from '../assets/icon.svg';
-import play from '../assets/play.png';
+import play from '../assets/Play.png';
 const Banner = () => {
     return(
        <div className="hero min-h-screen">
