@@ -24,7 +24,7 @@ const Home = ({ carts, handleAddToCart, handleRemoveCart, handleCheckout }) => {
       <Banner />
       <About />
 
-      <div className="px-36">
+      <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12">
         <Products
           carts={carts}
           showCart={showCart}
