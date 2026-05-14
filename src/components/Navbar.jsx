@@ -1,6 +1,6 @@
 const Navbar = ({ carts }) => {
   return (
-    <div className="navbar bg-base-100 shadow-sm px-16">
+    <div className="navbar bg-base-100 shadow-sm px-4 md:px-8 lg:px-12 max-w-7xl mx-auto">
 
       <div className="navbar-start">
         <a className="btn btn-ghost text-2xl font-bold">
